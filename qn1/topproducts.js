@@ -30,9 +30,9 @@ const topproducts = async (req, res) => {
       "companyName": "goMart",
       "clientID": "8a694f73-3c06-40e0-b1ec-ce2b2ec718c5",
       "clientSecret": "GeruIClGRjMurgWh",
-      "ownerName": "Bishal De",
-      "ownerEmail": "bb3477@srmist.edu.in",
-      "rollNo": "RA2111026010231"
+      "ownerName": "Kaushik Singh",
+      "ownerEmail": "km7654@srmist.edu.in",
+      "rollNo": "RA2111003010215"
   });
     var ACCESS = AccessRequest.data.access_token;
     const response = await axios.get(URL, {
